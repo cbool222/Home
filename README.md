@@ -36,6 +36,12 @@
         Można wykorzystać zawór **IB-Q20-3** lub **IB-Q25-3**
         
         [Instrukcja](http://www.download.insbud.net/pl/manuals/pl_ib-qxx-3.pdf)
+   - ## WiFi
+   
+    Access Point [MikroTik RB760iGS](https://mikrotik.com/product/hex_s) obok inwertera 
+    
+   
+   
 - # Licznik energii
   Pomiar energii zużytej, oddanej i autokonsumpcji
   
