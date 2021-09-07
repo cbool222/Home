@@ -5,6 +5,7 @@
 
         Odczyt stanów pompy:
 
+        * Zasilanie
         * Praca
         * Błąd
 
@@ -21,3 +22,4 @@
       - ### Zawór trójdrożny
 
         Połączenie wody państwowej i wody ze studni przełączanie manualnie lub automatycznie na podstawie danych z hydroforu.
+- # Licznik energii
