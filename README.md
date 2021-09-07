@@ -9,13 +9,18 @@
         * Praca
         * Błąd
 
-    - ### Automatyczny reset pompy
+        "Zasilanie" oraz "Błąd" przy pomocy przekaźników [PK-1P 230 V](https://www.fif.com.pl/pl/przekazniki-elektromagnetyczne/306-przekaznik-elektromagnetyczny-pk-1p-230-v.html),
+        a "Praca" przy pomocy styku pomocniczego **22DILE**
 
-      Reset co 12h lub po wskazaniu czujnika poziomu cieczy w studni.
+    - ### Reset pompy
+    
+      - #### Automatyczny
 
-    - ### Manualny reset pompy
+        Zdalny reset logiki/timera przy pomocy [Shelly 1](https://shelly.cloud/products/shelly-1-smart-home-automation-relay/)
 
-      Bez wyłączania rozdzielki
+      - #### Manualny
+
+        Przełącznik **M22-WRK** podłączony do **Shelly 1**
 
    - ## Zimna woda
       - ### Pomiar przepływu wody
