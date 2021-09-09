@@ -45,10 +45,10 @@
     Komponent | Przeznaczenie | Sklep | Ilość 
     ------------ | ------------- | ------------- | -------------
     Skrzynka Rozdzielcza 600x500 | --- | [Allegro](https://allegro.pl/oferta/skrzynka-szafa-obudowa-abs-plastikowa-600x500x220-9786926675) | 1
-    Stycznik DILM 15-10 7.5kW | Zdalne wyłączanie płyty indukcyjnej | [plcs.net.pl](https://www.plcs.net.pl/index.php/katalog-automatyki/styczniki/styczniki-eaton/styczniki-dil-m/dilm15xx-stycznik-dilm-15-75-kw.html) | 1
-    Shelly 1 | Zdalne wyłączanie płyty indukcyjnej | [Shelly 1](https://shelly.cloud/products/shelly-1-smart-home-automation-relay/) | 1
-    MEAN WELL MDR-20-5 | Zasilanie 5V | [Allegro](https://allegro.pl/oferta/zasilacz-na-szyne-din-5v-3a-15w-mean-well-mdr-20-5-11017683821) | 1
-    
+    Stycznik DILM 15-10 7.5kW | Zdalne wyłączanie płyty indukcyjnej | [Allegro](https://allegro.pl/oferta/stycznik-dilm-15-10-7-5-kw-cewka-24v-ac-1no-10904455058) | 1
+    Shelly 1 | Zdalne wyłączanie płyty indukcyjnej | [Allegro](https://allegro.pl/oferta/shelly-1-przekaznik-wifi-zdalnie-sterowany-3500w-9472100995) | 1
+    MEAN WELL MDR-40-24 | Zasilanie 24V | [Allegro](https://allegro.pl/oferta/zasilacz-din-mdr-40-24-24v-1-7a-40w-mean-well-8725147785) | 1
+    Przetwornica XY-3606 | Przetwornica na 5V do ESP32 | [Allegro](https://allegro.pl/oferta/przetwornica-xy-3606-step-down-z-9-36v-do-5v-5a-9694436548) | 2
     
 
 
