@@ -40,6 +40,17 @@
    
     Access Point [MikroTik RB760iGS](https://mikrotik.com/product/hex_s) obok inwertera 
     
+   - ## Skrzynka Rozdzielcza: Remastered
+   
+    Komponent | Przeznaczenie | Sklep | Ilość 
+    ------------ | ------------- | ------------- | -------------
+    Skrzynka Rozdzielcza 600x500 | --- | [Allegro](https://allegro.pl/oferta/skrzynka-szafa-obudowa-abs-plastikowa-600x500x220-9786926675) | 1
+    Stycznik DILM 15-10 7.5kW | Zdalne wyłączane płyty indukcyjnej | [plcs.net.pl](https://www.plcs.net.pl/index.php/katalog-automatyki/styczniki/styczniki-eaton/styczniki-dil-m/dilm15xx-stycznik-dilm-15-75-kw.html) | 1
+    Shelly 1 | Zdalne wyłączanie płyty indukcyjnej | [Shelly 1](https://shelly.cloud/products/shelly-1-smart-home-automation-relay/) | 1
+    
+
+
+    
    
    
 - # Licznik energii
