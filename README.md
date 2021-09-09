@@ -56,7 +56,7 @@
     IB-Q25-3 | Połączenie wody ze studni i państwowej | Hydrofor | [Allegro](https://allegro.pl/oferta/zawor-trojdrozny-silownik-3-drogowy-dn20-10184767149) | 1 | 245,00
     M22-WRK | Wyłączenie logiki w hydroforze | Hydrofor | [Allegro](https://allegro.pl/oferta/przelacznik-m22-wrk-k10-10896796019) | 1 | 51,67
     MEAN WELL MDR-40-24 | Zasilanie 24V | Rozdzielka | [Allegro](https://allegro.pl/oferta/zasilacz-din-mdr-40-24-24v-1-7a-40w-mean-well-8725147785) | 1 | 68,00
-    MikroTik RB760iGS | Router pod inwerter | Inverter | [Allegro](https://allegro.pl/oferta/mikrotik-routerboard-rb760igs-hex-s-sfp-8437932024) | 2 | 259,00
+    MikroTik RB760iGS | Router pod inwerter | Inverter | [Allegro](https://allegro.pl/oferta/mikrotik-routerboard-rb760igs-hex-s-sfp-8437932024) | 1 | 259,00
     PK-1P 230 V | Przekaźniki do hydroforu | Hydrofor | [Allegro](https://allegro.pl/oferta/f-f-przekaznik-elektromagnetyczny-pk-1p-230v-9297384944) | 3 | 32,29
     Przetwornica XY-3606 | Przetwornica na 5V do ESP32 | Rozdzielka | [Allegro](https://allegro.pl/oferta/przetwornica-xy-3606-step-down-z-9-36v-do-5v-5a-9694436548) | 2 | 9,99
     Skrzynka Rozdzielcza 600x500 | --- | Rozdzielka | [Allegro](https://allegro.pl/oferta/skrzynka-szafa-obudowa-abs-plastikowa-600x500x220-9786926675) | 1 | 246,90
