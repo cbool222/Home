@@ -50,7 +50,7 @@
   
 - # Lista zakupów
    
-    Komponent | Przeznaczenie | Lokalizacja | Sklep | Ilość | Cena
+    Komponent | Przeznaczenie | Lokalizacja | Sklep | Ilość | Cena[zł] za szt.
     ------------ | ------------- | ------------- | ------------- | ------------- | -------------
     22DILE | Stycznik pomocniczy 22DILE | Hydrofor | [Allegro](https://allegro.pl/oferta/22dile-modul-stykow-pomocniczych-2z-2r-mont-cen-10533039511) | 1 | 36,15
     IB-Q25-3 | Połączenie wody ze studni i państwowej | Hydrofor | [Allegro](https://allegro.pl/oferta/zawor-trojdrozny-silownik-3-drogowy-dn20-10184767149) | 1 | 245,00
@@ -63,5 +63,6 @@
     Stycznik DILM 15-10 7.5kW | Zdalne wyłączanie płyty indukcyjnej | Rozdzielka | [Allegro](https://allegro.pl/oferta/stycznik-dilm-15-10-7-5-kw-cewka-24v-ac-1no-10904455058) | 1 | 158,10
     Shelly 1 | Zdalne wyłączanie płyty indukcyjnej oraz reset hydroforu | Hydrofor + Rozdzielka| [Allegro](https://allegro.pl/oferta/shelly-1-przekaznik-wifi-zdalnie-sterowany-3500w-9472100995) | 2 | 48,39
     Shelly 3EM | Pomiar zużycia prądu | Rozdzielka | [Allegro](https://allegro.pl/oferta/shelly-3em-licznik-pomiar-zuzycia-energii-wifi-pv-10854292354) | 1 | 559,99
+    Wyłącznik różnicowoprądowy Eaton 25A 4P | Pomiar zużycia prądu/zabezpieczenie | Rozdzielka | [Allegro](https://allegro.pl/oferta/wylacznik-roznicowopradowy-eaton-25a-4p-178476-10741901478) | 1 | 87,45
     YF-B6 | Pomiar zużycia wody | Hydrofor | [AliExpress](https://pl.aliexpress.com/item/32788046376.html) | 2 | 48,56
     
